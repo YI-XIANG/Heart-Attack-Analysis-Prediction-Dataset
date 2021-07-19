@@ -1,2 +1,2 @@
 # Heart-Attack-Analysis-Prediction-Dataset
-Personal practice : Heart Attack Analysis &amp; Prediction Dataset 
+此案例使用Decision tree, Random forest, XGBoost來Prediction。
